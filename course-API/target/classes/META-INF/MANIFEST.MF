@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: course-API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: prbidwai
+Implementation-Vendor-Id: io.javaSpring.springBootQuickStart
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/course-API/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
